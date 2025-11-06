@@ -1,6 +1,6 @@
 ## About me
 
-I am an engineering student in microelectronics and will officially graduate in October 2025 with the ISMIN diploma from Mines Saint-Étienne.
+I am a microelectronics engineer with a ISMIN degree from Mines Saint-Étienne. ISMIN is a master's degree in microelectronics and computer science.
 
 My main interests are hardware and embedded systems projects. I also enjoy expanding my knowledge in microelectronics or computer science.
 
